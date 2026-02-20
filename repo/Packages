@@ -1,15 +1,15 @@
 Package: bakir-get
-Version: 1.8
+Version: 1.9
 Architecture: all
-Maintainer: Bakir Consultant <abuhussenbakir9@gmail.com>
+Maintainer: Bakir Consultant
 Filename: ./pkg-bakir-get.deb
-Size: 748
-MD5sum: dde97a96d8b0481a601325e8c340977e
-SHA1: a75c6a8a27ee4d44f8667c15f4ab69ac3a092457
-SHA256: d7f43864560f2ca61d2ee2be2a29ac908c8735250bce6b90785f8a6ff2a3d6d1
+Size: 355668
+MD5sum: 716375857fcbf6e9ead4d2560a372dd4
+SHA1: 6dc40b5fed36ec78b20f7fb158e0b1de5766516f
+SHA256: cc7923cfc93a7dcc21c234fddaa0216300af3df182a6162eb93df11448df7e6c
 Section: admin
 Priority: optional
-Description: Official Package Manager for Bakir Core System
+Description: Official Package Manager for Bakir Core - Verified Debian Port
 
 Package: bakir-welcome
 Version: 1.0
