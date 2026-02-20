@@ -1,0 +1,13 @@
+Package: bakir-theme
+Version: 4.0
+Architecture: all
+Maintainer: Bakir Linux Team
+Filename: ./bakir-theme.deb
+Size: 1296
+MD5sum: a56d4ddbaf3defcb86cac0bce0c024ff
+SHA1: c70d438247f96bd6df0b7caf3f406a8edbf88e77
+SHA256: 9e7ae49fb9526e645def7468439b8742e68e862592203ac666488b3d10d00619
+Section: admin
+Priority: optional
+Description: Auto-activating theme for Bakir Linux Terminal
+
