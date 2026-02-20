@@ -1,16 +1,15 @@
 Package: bakir-opt
-Version: 1.1
+Version: 1.2
 Architecture: amd64
-Maintainer: Bakir Linux Team
+Maintainer: Bakir Linux
 Filename: ./bakir-opt.deb
-Size: 772
-MD5sum: 3d1d91db0d657f37d1b1fe4d532f3b06
-SHA1: e544e614b19851c8da578f60ff8af5c0df0d058a
-SHA256: 09b59c3fcdbd6698dcfcd27f49906dc1d586079a4835742b147d28c9c08f9e89
+Size: 720
+MD5sum: 2b6febd0669d37a5bfb6802ac7e36053
+SHA1: 88a54ff53fe1291fcf61de616328f5d604e5887f
+SHA256: ff2f9fad7ef50ef818a5d4a41f7475157c116bd2782291528299505e4311a855
 Section: admin
 Priority: optional
-Description: Sovereign Rust-based system optimizer for Bakir Linux.
- This version fixes the command path issue.
+Description: Verified Rust Optimizer for Bakir Linux.
 
 Package: bakir-theme
 Version: 4.0
