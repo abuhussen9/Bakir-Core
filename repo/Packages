@@ -1,3 +1,16 @@
+Package: bakir-opt
+Version: 1.0
+Architecture: amd64
+Maintainer: Bakir Linux
+Filename: ./bakir-opt.deb
+Size: 728
+MD5sum: 872019ec26e0e46ad354d4f3972757ab
+SHA1: 991146ccae1317026fa159f4b4a5cfb08cae9672
+SHA256: 8b406b00c1609d5a673266fc37f898db50788e4134478a8fd10e875a20c16872
+Section: admin
+Priority: optional
+Description: Official Rust-based optimizer for Bakir Linux.
+
 Package: bakir-theme
 Version: 4.0
 Architecture: all
