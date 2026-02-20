@@ -11,3 +11,17 @@ Section: admin
 Priority: optional
 Description: Auto-activating theme for Bakir Linux Terminal
 
+Package: opt
+Version: 1.0
+Architecture: amd64
+Maintainer: Bakir Linux Team
+Filename: ./opt.deb
+Size: 831832
+MD5sum: d68e41953d51ffff5f8dfec778f17ffd
+SHA1: e337317d1bf99118d2af00606c4fd4ea388d77b5
+SHA256: d51abff2a31ed6ae47c27405f0d4ebf17eae5e5744952d23859b22f658e1638a
+Section: admin
+Priority: optional
+Description: Sovereign Rust-based system optimizer for Bakir Linux.
+ Supports Arabic and English based on system locale.
+
