@@ -1,0 +1,13 @@
+Package: bakir-welcome
+Version: 1.0
+Architecture: all
+Maintainer: abuhussen9 <abuhussenbakir9@gmail.com>
+Filename: ./bakir-package.deb
+Size: 836
+MD5sum: 0e83c149f80f5ae5d41861a8322461b9
+SHA1: a7540ae9b95191ae84a08b976021aab0eeb28c87
+SHA256: b5425fd507a2db63f583c1cd1e44e07c26cb61171649efe34a69e68be73cbd31
+Section: custom
+Priority: optional
+Description: Official Welcome Package for Bakir Core System
+
